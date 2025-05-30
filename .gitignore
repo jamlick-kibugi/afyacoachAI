@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+.env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Streamlit and VSCode config
+.streamlit/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Secrets and certificates
+*.pem
+
+# Large data or folders to ignore
+data/
+*.flv
+*.mp4
+*.png
+__pycache__/
